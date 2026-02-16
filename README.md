@@ -29,4 +29,4 @@ The project includes hypothesis testing and visual analysis stored in the report
 The model successfully identifies suspicious transactions based on learned behavioral patterns.
 
 ## Author
-Spandita Goswami
+Spandita GoswamiUpdated by Spandita
